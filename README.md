@@ -1,6 +1,6 @@
 ## Olá, sou o Guilherme Vilches
 
-- 🔭 Estou cursando Engenharia da Computação
+- 🔭 Acadêmico Engenharia da Computação
 - 🌱 Estou começando na área recentemente
 - 😄 Pronouns: Ele/Dele
 
